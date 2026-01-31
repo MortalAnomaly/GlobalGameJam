@@ -474,6 +474,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: fd23e1cd4d168ab4ab015b5c8edf8edf, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7ef3feae5b4e44745b410bdbd03d0a01, type: 2}
     - target: {fileID: 919132149155446097, guid: fd23e1cd4d168ab4ab015b5c8edf8edf, type: 3}
       propertyPath: m_Name
       value: Mask
